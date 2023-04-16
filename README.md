@@ -1,1 +1,1 @@
-# Grid-challange
+# Grid-challenge
